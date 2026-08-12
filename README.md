@@ -6,7 +6,6 @@ Olá, eu sou o Fabrício, estudante do curso Interdisciplinar Bacharelado em Ci�
 
 
 
-
 <!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furlanxzx/furlanxzx/output/pacman-contribution-graph-dark.svg">
