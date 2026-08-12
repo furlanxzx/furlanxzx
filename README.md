@@ -2,8 +2,7 @@
 
 
 # ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝐒𝐞𝐣𝐚 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨!ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-Olá, eu sou o Fabrício, estudante do curso Interdisciplinar Bacharelado em Ciência e Tecnologia na UNIFESP, atualmente dedico meu tempo a explorar e estudar projetos na área de Offensive Security com automações, criação de checkers e processamento de dados.
-
+Olá, eu sou o Fabrício, estudante do curso Interdisciplinar Bacharelado em Ciência e Tecnologia na UNIFESP, atualmente dedico meu tempo a explorar e estudar projetos na área de Offensive Security com automações, criação de checkers e processamento de dados. Também gosto de design, de interfaces que tenham identidades e se sintam vivas, conectando quem vê à arte.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
 
@@ -20,9 +19,9 @@ Olá, eu sou o Fabrício, estudante do curso Interdisciplinar Bacharelado em Ci�
 
 ## <span style="color:red">Sobre Mim</span>
 
-Atualmente no 4º semestre de Ciência e Tecnologia — gosto de estudar as vulnerabilidades em sistemas.
+Atualmente no 4º semestre de Ciência e Tecnologia — UNIFESP
 
-Linguagens mais utilizadas: 
+Linguagens mais utilizadas: Python e C.
 
-Quando não estou estudando, provavelmente estou online no chess.com ou jogando vôlei.
+Quando não estou estudando / codando provavelmente estou online no chess.com ou jogando vôlei.
 
