@@ -2,3 +2,4 @@
 
 
 # ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝐒𝐞𝐣𝐚 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨!ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Olá, eu sou o Fabrício, estudante do curso Interdisciplinar Bacharelado em Ciência e Tecnologia na UNIFESP, atualmente dedico meu tempo a explorar e desenvolver projetos na área de Offensive Security com automações, criação de checkers e processamento de dados.
